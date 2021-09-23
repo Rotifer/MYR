@@ -19,3 +19,7 @@ RSQLite::dbWriteTable(db_conn, 'ideas_state_sample_long', ideas_state_sample_lon
 RSQLite::dbListTables(db_conn)
 RSQLite::dbDisconnect(db_conn)
 
+# Links:
+# https://garrettgman.github.io/tidying/
+# https://www.datacamp.com/community/tutorials/sqlite-in-r
+
